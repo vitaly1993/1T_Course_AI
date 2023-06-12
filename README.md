@@ -4,6 +4,6 @@
 ![Logo](images/readme_course.jpg)
 
 
-- [Информация по курсу](https://data.1t.ru/c/index.html)
+- [Информация по курсу](https://data.1t.ru/c/orion.html)
 
 
